@@ -1,2 +1,4 @@
-# ola mundo
-primiro repositorio versionado
+# Olá, mundo!
+primiro repositorio no github
+
+repositorio criado pra estudo.
